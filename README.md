@@ -29,10 +29,10 @@ All programs are created for **learning, understanding concepts, and regular pra
 | Searching Algorithms      | ✅ Completed   | Linear & Binary Search        |
 | Pointers & Dynamic Arrays | ✅ Completed   | Pointer arithmetic & arrays   |
 | Linked Lists (Singly)     | ✅ Completed   | Insert, Delete, Search, Update|
-| Linked Lists (Doubly)     | ⚙️ In Progress | Yet to implement              |
-| Stack & Queue             | ⏳ Upcoming    | Yet to implement              |
-| Recursion                 | ⏳ Upcoming    | Yet to implement              |
-| Trees & Graphs            | ⏳ Upcoming    | Yet to implement              |
+| Linked Lists (Doubly)     | ✅ Completed   | Insert, Delete, Search, Update|
+| Stack & Queue             | ✅ Completed   | Insert, Delete, Search, Update|
+| Recursion                 | ✅ Completed   | Binary Search, Linear Search  |
+| Trees & Graphs            | ✅ Completed   | Traversal Orders, BST         |
 
 > ✅ Completed | ⚙️ In Progress | ⏳ Upcoming
 
